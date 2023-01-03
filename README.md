@@ -27,3 +27,4 @@ Facinado por programação, busco a cada dia mais me aperfeiçoar.
 - [WorldWide](https://site-world-wide.netlify.app/)</br>
 - [Clima](https://site-clima.netlify.app/)</br>
 - [Filmes](https://filmes-react-edu.netlify.app/)</br>
+- [Portifólio com react.js](https://joaoeduardo.netlify.app/)</br>
