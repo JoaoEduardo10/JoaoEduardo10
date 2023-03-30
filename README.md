@@ -28,3 +28,5 @@ Facinado por programação, busco a cada dia mais me aperfeiçoar.
 - [Clima](https://site-clima.netlify.app/)</br>
 - [Filmes](https://filmes-react-edu.netlify.app/)</br>
 - [Portifólio com react.js](https://joaoeduardo.netlify.app/)</br>
+
+![Snake animation](https://github.com/JoaoEduardo10/JoaoEduardo10/blob/output/github-contribution-grid-snake.svg)
