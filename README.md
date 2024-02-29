@@ -35,7 +35,7 @@
 
 ## Sobre Mim
 
-Sou um desenvolvedor apaixonado por programação e estou sempre buscando aprimorar minhas habilidades tanto em front-end quanto em back-end. Acredito que a programação é uma ferramenta poderosa para a criação de soluções inovadoras e eficientes, e por isso busco a cada dia me aperfeiçoar em diferentes áreas, para poder desenvolver projetos mais completos e funcionais.
+Sou um desenvolvedor apaixonado por programação e estou sempre buscando aprimorar minhas habilidades. Acredito que a programação é uma ferramenta poderosa para a criação de soluções inovadoras e eficientes, e por isso busco a cada dia me aperfeiçoar em diferentes áreas, para poder desenvolver projetos mais completos e funcionais.
 
 Se você está procurando um desenvolvedor altamente capacitado, criativo e dedicado, não hesite em entrar em contato comigo. Estou sempre buscando novas oportunidades para aprender, crescer e contribuir para o sucesso de projetos que realmente fazem a diferença. Facinado por programação, busco a cada dia mais me aperfeiçoar tendo conhecimento em front-end e back-end, e estou pronto para encarar qualquer desafio que apareça em meu caminho.
 
